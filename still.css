@@ -1,0 +1,42 @@
+p {
+    color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+	}
+ .paragraf_2{color: darkcyan; background-color: rgb(255, 255, 255, 0.5)}
+ .novi_blok{
+	 background-color: rgb(255, 255, 255, 0.5);
+	 padding: 20px;
+	 margin: 20px;
+	 
+ }
+h1, h2 {
+	font-family, "Helvetica Neue", Helvetica, Arial, "Sans-serif"
+	color: green;
+	 color: green;
+}
+
+span {color: rgb(255, 0, 255);}
+ .pozadina {
+	  background-image: url("slike/nikolina6.jpg");
+}
+  .drugapozadina {
+	  background-color: darkgray;
+  }
+a: link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: lpx solid #000000;
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height: 300px;
+}
